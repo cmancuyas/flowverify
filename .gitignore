@@ -1,0 +1,17 @@
+# Visual Studio
+.vs/
+**/.vs/
+
+# Build outputs
+bin/
+obj/
+** User files
+*.user
+*.suo
+
+# Node
+***e_modules/
+
+# Environment
+.env
+.***.*

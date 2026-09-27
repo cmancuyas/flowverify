@@ -1,0 +1,6 @@
+@FlowVerify.Api_HostAddress = http://localhost:5017
+
+GET {{FlowVerify.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
